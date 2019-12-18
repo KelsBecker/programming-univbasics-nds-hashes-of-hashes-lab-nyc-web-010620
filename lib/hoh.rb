@@ -98,7 +98,7 @@ PORTION_4 = {
  }
 
 def naming_system 
-  nested_hash = {PORTION_1, PORTION_2, PORTION_3, PORTION_4}
+  nested_hash = PORTION_4
   nested_hash
 end
   # Remember:
