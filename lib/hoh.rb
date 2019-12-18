@@ -98,8 +98,8 @@ PORTION_4 = {
  }
 
 def naming_system 
-  hash = [PORTION_1][PORTION_2][PORTION_3][PORTION_4]
-  hash
+  nested_hash = [PORTION_1][PORTION_2][PORTION_3][PORTION_4]
+  nested_hash
 end
   # Remember:
   #  Kingdom
